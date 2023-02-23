@@ -1,0 +1,1 @@
+,CHROM,POS,REF,ALT,Func,T:FUPMS,Variant,TranscriptID,Classification,T:COV,T:MAF,T:LogR,N:FHP,N:COV,N:MAF,N:LogR,GeneDetail,ExonicFunc,AAChange,ExAC,gnomADexome,esp6500si,1000g2015aug,snp150,ucsf500normT,ucsf500normN,cosmic87,cbioportal2018nov,clinvar,CADD,1 mutations/Mb
